@@ -2,12 +2,9 @@
 
 Here you can find the latest versions and direct links for all of my mods.
 
-### 📊 Állapotjelzők (Jelmagyarázat)
-
-* ![](https://shields.io) **Zöld:** Frankón működik, tesztelt, bátran használható.
-* ![](https://shields.io) **Kék:** Működik, de még további tesztelést igényel.
-* ![](https://shields.io) **Piros:** Bizonytalan, elvileg működik, de hibákat okozhat.
-
+* ![](https://shields.io)
+* ![](https://shields.io)
+* ![](https://shields.io)
 
 | Mod Name | Latest Version  | Short Description | Link to Mod |
 | :--- | :---: | :--- | :--- |
