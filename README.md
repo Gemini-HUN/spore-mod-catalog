@@ -5,7 +5,7 @@ Here you can find the latest versions and direct links for all of my mods.
 https://github.com/Gemini-HUN/spore-mod-catalog/tags
 https://github.com/Gemini-HUN/spore-mod-catalog/releases/tag/Testing
 * ![](https://shields.io/github/Gemini-HUN/spore-mod-catalog/tags/Stable?style=flat-square&color=green)
-* ![](![](https://img.shields.io/badge/release-Testing-blue?style=flat-square))
+* ![](https://img.shields.io/badge/release-Testing-blue?style=flat-square)
 * ![](https://img.shields.io/github/Gemini-HUN/spore-mod-catalog/tags/Unstable?style=flat-square&color=red)
 
 | Mod Name | Latest Version  | Short Description | Link to Mod |
