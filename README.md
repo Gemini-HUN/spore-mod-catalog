@@ -3,9 +3,9 @@
 Here you can find the latest versions and direct links for all of my mods.
 
 Example for releases:
-* ![](https://img.shields.io/badge/release-Stable-green?style=flat-square)
-* ![](https://img.shields.io/badge/release-Testing-blue?style=flat-square)
-* ![](https://img.shields.io/badge/release-Unstable-red?style=flat-square)
+* ![](https://badgen.net/badge/release/Stable/green?style=flat-square)
+* ![](https://badgen.net/badge/release/Testing/blue?style=flat-square)
+* ![](https://badgen.net/badge/release/Unstable/red?style=flat-square)
 
 | Mod Name | Latest Version  | Stage/Editor | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :---: |
