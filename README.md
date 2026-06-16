@@ -3,7 +3,7 @@
 Here you can find the latest versions and direct links for all of my mods.
 https://github.com/Gemini-HUN/spore-mod-catalog/releases/tag/Stable
 
-* ![](https://shields.io/github/Gemini-HUN/spore-mod-catalog/releases/tag/Stable?style=flat-square&color=green)
+* Stable![](https://shields.io?style=flat-square&color=green)
 * ![](https://shields.io)
 * ![](https://shields.io)
 
