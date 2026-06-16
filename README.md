@@ -2,6 +2,13 @@
 
 Here you can find the latest versions and direct links for all of my mods.
 
+### 📊 Állapotjelzők (Jelmagyarázat)
+
+* ![](https://shields.io) **Zöld:** Frankón működik, tesztelt, bátran használható.
+* ![](https://shields.io) **Kék:** Működik, de még további tesztelést igényel.
+* ![](https://shields.io) **Piros:** Bizonytalan, elvileg működik, de hibákat okozhat.
+
+
 | Mod Name | Latest Version  | Short Description | Link to Mod |
 | :--- | :---: | :--- | :--- |
 | **Spore_Henry_rogue** | ![version](https://img.shields.io/github/v/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=blue) | This mod lets players experience the Creature Stage with a rogue-like feel. | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) |
