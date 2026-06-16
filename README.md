@@ -2,7 +2,7 @@
 
 Here you can find the latest versions and direct links for all of my mods.
 
-* !https://shields.io/github/v/tag/Gemini-HUN/spore-mod-catalog?style=flat-square&color=green
+* ![]https://shields.io/github/v/tag/Gemini-HUN/spore-mod-catalog?style=flat-square&color=green
 * ![](https://shields.io)
 * ![](https://shields.io)
 
