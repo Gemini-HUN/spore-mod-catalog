@@ -7,8 +7,8 @@ Example for releases:
 * ![](https://img.shields.io/badge/release-Testing-blue?style=flat-square)
 * ![](https://img.shields.io/badge/release-Unstable-red?style=flat-square)
 
-| Mod Name | Latest Version  | Stage/Editor | Link to Mod |
-| :--- | :---: | :--- | :--- |
+| Mod Name | Latest Version  | Stage/Editor | Link to Mod | Total Downloads |
+| :--- | :---: | :--- | :--- | :---: |
 | **Spore_Henry_rogue** | ![version](https://img.shields.io/github/v/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=blue) | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) |
 | **Spor-o-mega** | ![version](https://img.shields.io/github/v/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=blue) | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) |
 | **T3_Earth** | ![version](https://img.shields.io/github/v/tag/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=green) | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_T3_Earth) |
