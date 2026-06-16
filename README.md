@@ -1,9 +1,9 @@
 # My Spore Mod Collection
 
 Here you can find the latest versions and direct links for all of my mods.
-https://github.com/Gemini-HUN/spore-mod-catalog/releases/tag/Stable
 
-* Stable![](https://shields.io/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green)
+https://github.com/Gemini-HUN/spore-mod-catalog/tags
+* Stable![](https://shields.io/github/Gemini-HUN/spore-mod-catalog/tags/Stable?style=flat-square&color=green)
 * ![](https://shields.io)
 * ![](https://shields.io)
 
