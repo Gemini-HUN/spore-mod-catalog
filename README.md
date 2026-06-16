@@ -1,8 +1,9 @@
 # My Spore Mod Collection
 
 Here you can find the latest versions and direct links for all of my mods.
+https://github.com/Gemini-HUN/spore-mod-catalog/releases/tag/Stable
 
-* ![](https://shields.io/github/v/tag/Gemini-HUN/spore-mod-catalog?style=flat-square&color=green)
+* ![](https://shields.io/github/v/tag/Stable/Gemini-HUN/spore-mod-catalog?style=flat-square&color=green)
 * ![](https://shields.io)
 * ![](https://shields.io)
 
