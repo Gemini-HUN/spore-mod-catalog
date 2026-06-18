@@ -8,7 +8,7 @@ Here you can find the latest versions and direct links for all of my mods.
 * ![](https://badgen.net/badge/release/Unstable/red?style=flat-square)
 
 | Mod Name | Latest Version  | Type | Area | Link to Mod | Total Downloads |
-| :--- | :---: | :--- | :--- | :---: |
+| :--- | :---: | :--- | :--- | :--- | :---: |
 | **Placeholder** | - | Tribe Stage | - | - |
 | **Spore_Henry_rogue** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | X | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&icon=github) |
 | **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=blue) | Restoration | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&icon=github) |
