@@ -27,4 +27,4 @@ Here you can find projects by other creators that I have contributed to.
 
 | Original Creator | Mod Name | My role | Latest Version  | Type | Area | Link to Mod | Total Downloads |
 | :--- | :--- | :--- | :---: | :--- | :---| :--- | :---: |
-| [@A-xesey](https://github.com/A-xesey) | **Flora-Editor-Reconstruction** | **Translate to hu-hu** | ![Version](https://badgen.net/github/tag/A-xesey/Flora-Editor-Reconstruction?style=flat-square&color=green) | Restoration | Flora Editor <br> Space Stage | [View mod](https://github.com/A-xesey/Flora-Editor-Reconstruction) | ![Downloads](https://badgen.net/github/assets-dl/A-xesey/Flora-Editor-Reconstruction?style=flat-square&color=d81b60&icon=github) |
+| [@A-xesey](https://github.com/A-xesey) | **Flora-Editor-Reconstruction** | **Translate to hu-hu** | ![Version](https://badgen.net/github/tag/A-xesey/Flora-Editor-Reconstruction?style=flat-square&color=green) | Restoration | Flora Editor/ <br> Space Stage | [View mod](https://github.com/A-xesey/Flora-Editor-Reconstruction) | ![Downloads](https://badgen.net/github/assets-dl/A-xesey/Flora-Editor-Reconstruction?style=flat-square&color=d81b60&icon=github) |
