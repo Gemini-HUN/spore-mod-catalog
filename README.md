@@ -3,7 +3,7 @@
 Here you can find the latest versions and direct links for all of my mods.
 
 ### Example for releases:
-* ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for most players.
+* ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
 * ![](https://badgen.net/badge/release/Testing/blue?style=flat-square) Works as intended, but additional feedback and compatibility testing are welcome.
 * ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Research or experimental project. Core mechanics may change between releases and unexpected issues may occur.
 
