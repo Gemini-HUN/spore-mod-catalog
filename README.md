@@ -2,7 +2,7 @@
 
 Here you can find the latest versions and direct links for all of my mods.
 
-### Example for releases:
+### Release Status:
 * ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
 * ![](https://badgen.net/badge/release/Testing/blue?style=flat-square) Works as intended, but additional feedback and compatibility testing are welcome.
 * ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Research or experimental project. Core mechanics may change between releases and unexpected issues may occur.
@@ -28,4 +28,4 @@ Here you can find projects by other creators that I have contributed to.
 | Original Creator | Mod Name | My role | Latest Version  | Type | Area | Link to Mod | Total Downloads |
 | :--- | :--- | :--- | :---: | :--- | :---| :--- | :---: |
 | [@A-xesey](https://github.com/A-xesey) | **Flora-Editor-Reconstruction** | **Localization (hu-hu)** | ![Version](https://badgen.net/github/tag/A-xesey/Flora-Editor-Reconstruction?style=flat-square&color=green) | Restoration | Flora Editor & <br> Space Stage | [View mod](https://github.com/A-xesey/Flora-Editor-Reconstruction) | ![Downloads](https://badgen.net/github/assets-dl/A-xesey/Flora-Editor-Reconstruction?style=flat-square&color=d81b60&icon=github) |
-| [@ChenTheIdiot](https://github.com/ChenTheIdiot) | **chencorporationsfix** | **Fix** | ![Version](https://badgen.net/github/tag/ChenTheIdiot/chencorporationsfix?style=flat-square&color=blue) | Archive & <br> Fix | Space Stage | [View mod](https://github.com/ChenTheIdiot/chencorporationsfix) | ![Downloads](https://badgen.net/github/assets-dl/ChenTheIdiot/chencorporationsfix?style=flat-square&color=d81b60&icon=github) |
+| [@ChenTheIdiot](https://github.com/ChenTheIdiot) | **chencorporationsfix** | **Fix Assistance** | ![Version](https://badgen.net/github/tag/ChenTheIdiot/chencorporationsfix?style=flat-square&color=blue) | Archive & <br> Restoration | Space Stage | [View mod](https://github.com/ChenTheIdiot/chencorporationsfix) | ![Downloads](https://badgen.net/github/assets-dl/ChenTheIdiot/chencorporationsfix?style=flat-square&color=d81b60&icon=github) |
