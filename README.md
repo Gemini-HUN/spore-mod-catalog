@@ -1,6 +1,9 @@
 # My Spore Mod Collection
 
-Here you can find the latest versions and direct links for all of my mods.
+Here you can find the latest versions and direct links for all of my Mods and my Contributions.
+
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
 ### Release Status:
 * ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
