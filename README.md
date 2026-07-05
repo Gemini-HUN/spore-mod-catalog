@@ -1,9 +1,9 @@
-# My Spore Mod Collection
+# How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
+## My Spore Mod Collection
 
 Here you can find the latest versions and direct links for all of my Mods and my Contributions.
-
-## How to install mods?
-I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
 ### Release Status:
 * ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
@@ -24,7 +24,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 | **Spore_HUN_Money_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=d81b60&logo=github) |
 | **Spore_HUN_Locale_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=green) | Fix | General | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Locale_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=d81b60&logo=github) |
 
-# My Contributions
+## My Contributions
 
 Here you can find projects by other creators that I have contributed to.
 
