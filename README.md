@@ -12,10 +12,10 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
-| **Placeholder** | - | Gameplay Modification | Tribe Stage | - | - |
-| **Spore_Henry_rogue** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
 | **Spore_T3_Earth** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=green) | Gameplay | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_T3_Earth) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=d81b60&logo=github) |
-| **Spore_hidden_planets** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=blue) | Restoration | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&logo=github) |
+| **Spore_hidden_planets** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=blue) | Gameplay & <br> Restoration | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&logo=github) |
+| **Spore_Henry_rogue** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
+| **Placeholder** | - | Gameplay Modification | Tribe Stage | - | - |
 
 ### My Spore Fix Mods
 
