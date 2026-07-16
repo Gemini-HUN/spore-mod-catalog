@@ -23,11 +23,12 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
-| **Spore_HUN_Locale_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=green) | Fix | General | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Locale_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=d81b60&logo=github) |
+| **Spore_HUN_Locale_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=green) | Fix | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Locale_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=d81b60&logo=github) |
 | **Bot_parts_global_localization** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=blue) | Localization Expansion  | Creature Editor | [View mod](https://github.com/Gemini-HUN/Bot_parts_global_localization) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=d81b60&logo=github) |
 | **Spore_HUN_Money_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=d81b60&logo=github) |
 | **Spore_Fix_Russian_Locale_Crash** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Fix_Russian_Locale_Crash?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_Fix_Russian_Locale_Crash) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Fix_Russian_Locale_Crash.svg?style=flat-square&color=d81b60&logo=github) |
 | **FixWarText** | ![Version](https://badgen.net/github/tag/Gemini-HUN/FixWarText?style=flat-square&color=green) | Fix | Space Stage | [View mod](https://github.com/Gemini-HUN/FixWarText) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/FixWarText?style=flat-square&color=d81b60&logo=github) |
+| **Placeholder** | - | Fix | Space Stage | - | - |
 
 ### My Spore Archive Mods
 
