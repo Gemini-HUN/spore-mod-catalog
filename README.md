@@ -12,12 +12,12 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
+
 | **Placeholder** | - | Gameplay Modification | Tribe Stage | - | - |
 | **Spore_Henry_rogue** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
 | **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=green) | Archive & <br> Fix & <br> Rebalance | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&logo=github) |
 | **Spore_T3_Earth** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=green) | Gameplay | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_T3_Earth) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=d81b60&logo=github) |
 | **FixWarText** | ![Version](https://badgen.net/github/tag/Gemini-HUN/FixWarText?style=flat-square&color=green) | Fix | Space Stage | [View mod](https://github.com/Gemini-HUN/FixWarText) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/FixWarText?style=flat-square&color=d81b60&logo=github) |
-| **Bot_parts_global_localization** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=blue) | Localization Expansion  | Creature Editor | [View mod](https://github.com/Gemini-HUN/Bot_parts_global_localization) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=d81b60&logo=github) |
 | **Spore_hidden_planets** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=blue) | Restoration | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&logo=github) |
 | **Sporemod-Fruits-in-civ-and-space** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=green) | Archive | Civ & Space Stage | [View mod](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=d81b60&logo=github) |
 | **Spore_Fix_Russian_Locale_Crash** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Fix_Russian_Locale_Crash?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_Fix_Russian_Locale_Crash) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Fix_Russian_Locale_Crash.svg?style=flat-square&color=d81b60&logo=github) |
@@ -30,6 +30,8 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
+
+| **Bot_parts_global_localization** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=blue) | Localization Expansion  | Creature Editor | [View mod](https://github.com/Gemini-HUN/Bot_parts_global_localization) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Archive Mods
 
