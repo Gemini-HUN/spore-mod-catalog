@@ -6,9 +6,9 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * ![](https://badgen.net/badge/release/Testing/blue?style=flat-square) Works as intended, but additional feedback and compatibility testing are welcome.
 * ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Research or experimental project. Core mechanics may change between releases and unexpected issues may occur.
 
-### My Spore Mod Collection
+### My Spore Gameplay Mods
 
-Here you can find the latest versions and direct links for all of my Mods and my Contributions.
+Here you can find mods that modify or expand Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
