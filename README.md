@@ -31,7 +31,7 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 
 ### My Spore Archive Mods
 
-Here you can find archived Spore projects that are preserved, documented, or maintained for accessibility and future reference.
+Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
