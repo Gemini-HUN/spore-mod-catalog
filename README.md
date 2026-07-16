@@ -12,7 +12,6 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
-
 | **Placeholder** | - | Gameplay Modification | Tribe Stage | - | - |
 | **Spore_Henry_rogue** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
 | **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=green) | Archive & <br> Fix & <br> Rebalance | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&logo=github) |
@@ -30,7 +29,6 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
-
 | **Bot_parts_global_localization** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=blue) | Localization Expansion  | Creature Editor | [View mod](https://github.com/Gemini-HUN/Bot_parts_global_localization) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Archive Mods
