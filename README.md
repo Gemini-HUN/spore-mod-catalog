@@ -1,18 +1,17 @@
 # How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
-## My Spore Mod Collection
-
-Here you can find the latest versions and direct links for all of my Mods and my Contributions.
-
-### Release Status:
+## Release Status:
 * ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
 * ![](https://badgen.net/badge/release/Testing/blue?style=flat-square) Works as intended, but additional feedback and compatibility testing are welcome.
 * ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Research or experimental project. Core mechanics may change between releases and unexpected issues may occur.
 
+### My Spore Mod Collection
+
+Here you can find the latest versions and direct links for all of my Mods and my Contributions.
+
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
-| Gameplay |
 | **Placeholder** | - | Gameplay Modification | Tribe Stage | - | - |
 | **Spore_Henry_rogue** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | [View mod](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
 | **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=green) | Archive & <br> Fix & <br> Rebalance | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&logo=github) |
