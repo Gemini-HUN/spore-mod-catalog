@@ -24,7 +24,7 @@ Here you can find the latest versions and direct links for all of my Mods and my
 | **Spore_HUN_Money_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=d81b60&logo=github) |
 | **Spore_HUN_Locale_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=green) | Fix | General | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Locale_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Locale_Fix?style=flat-square&color=d81b60&logo=github) |
 
-## My Contributions
+### My Contributions
 
 Here you can find projects by other creators that I have contributed to.
 
