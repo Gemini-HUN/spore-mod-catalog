@@ -35,8 +35,8 @@ Here you can find archived Spore projects that are preserved, documented, or mai
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
-| **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=green) | Archive & <br> Fix & <br> Rebalance | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&logo=github) |
 | **Sporemod-Fruits-in-civ-and-space** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=green) | Archive | Civ & Space Stage | [View mod](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=d81b60&logo=github) |
+| **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=green) | Archive & <br> Fix & <br> Rebalance | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Mod Contributions
 
