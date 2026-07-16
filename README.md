@@ -26,7 +26,7 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 
 ### My Spore Fix Mods
 
-(Here you can find the latest versions and direct links for all of my Mods and my Contributions.)
+Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
 
 | Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
 | :--- | :---: | :--- | :--- | :--- | :---: |
