@@ -28,7 +28,7 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 | **Spore_HUN_Money_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=d81b60&logo=github) |
 | **Spore_Fix_Russian_Locale_Crash** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Fix_Russian_Locale_Crash?style=flat-square&color=green) | Fix | All | [View mod](https://github.com/Gemini-HUN/Spore_Fix_Russian_Locale_Crash) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Fix_Russian_Locale_Crash.svg?style=flat-square&color=d81b60&logo=github) |
 | **FixWarText** | ![Version](https://badgen.net/github/tag/Gemini-HUN/FixWarText?style=flat-square&color=green) | Fix | Space Stage | [View mod](https://github.com/Gemini-HUN/FixWarText) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/FixWarText?style=flat-square&color=d81b60&logo=github) |
-| **Spore_French_Locale_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_French_Locale_Fix?style=flat-square&color=green) | Fix | Space Stage | [View mod]([https://github.com/Gemini-HUN/Spore_French_Locale_Fix) | ![Downloads](https://github.com/Gemini-HUN/Spore_French_Locale_Fix) |
+| **Spore_French_Locale_Fix** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_French_Locale_Fix?style=flat-square&color=green) | Fix | Space Stage | [View mod](https://github.com/Gemini-HUN/Spore_French_Locale_Fix) | ![Downloads](https://github.com/Gemini-HUN/Spore_French_Locale_Fix) |
 
 ### My Spore Archive Mods
 
