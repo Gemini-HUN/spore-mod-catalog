@@ -38,7 +38,7 @@ Here you can find archived Spore projects that are preserved, documented, and ma
 | :--- | :---: | :--- | :--- | :--- | :---: |
 | **Sporemod-Fruits-in-civ-and-space** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=green) | Archive | Civ & Space Stage | [View mod](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Sporemod-Fruits-in-civ-and-space?style=flat-square&color=d81b60&logo=github) |
 | **Spor-o-mega** | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spor-o-mega?style=flat-square&color=green) | Archive & <br> Fix & <br> Rebalance | Creature Editor | [View mod](https://github.com/Gemini-HUN/Spor-o-mega) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spor-o-mega?style=flat-square&color=d81b60&logo=github) |
-| **Placeholder** | - | Archive & <br> Fix | Creature Editor | - | - |
+| **DavosBP2_Data** | ![Version](https://badgen.net/github/tag/Gemini-HUN/DavosBP2_Data?style=flat-square&color=green) | Archive & <br> Fix | Creature Editor | [View mod](https://github.com/Gemini-HUN/DavosBP2_Data) | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/DavosBP2_Data?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Mod Contributions
 
