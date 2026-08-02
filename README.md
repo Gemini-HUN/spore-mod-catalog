@@ -4,7 +4,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## Release Status:
 * ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
 * ![](https://badgen.net/badge/release/Testing/blue?style=flat-square) Works as intended, but additional feedback and compatibility testing are welcome.
-* ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Research or experimental project. Core mechanics may change between releases and unexpected issues may occur.
+* ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Experimental project. Beta testers are needed to verify the mod's functionality. The mod may change significantly and receive bug-fix updates during development.
 
 ### My Spore Gameplay Mods
 
