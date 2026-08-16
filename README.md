@@ -1,5 +1,5 @@
 # How to install mods?
-I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing Spore mods. Please read the installation instructions first.
 
 ## Release Status:
 * ![](https://badgen.net/badge/release/Stable/green?style=flat-square) Feature complete, tested, and recommended for general use.
