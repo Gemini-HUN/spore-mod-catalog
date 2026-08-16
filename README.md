@@ -10,8 +10,8 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 Here you can find mods that modify or expand Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
 
-| Mod Name | Latest Version | Type | Area | Link to Mod | Total Downloads |
-| :--- | :---: | :--- | :--- | :--- | :---: |
+| Mod Name | Latest Version | Type | Area | Total Downloads |
+| :--- | :---: | :--- | :--- | :---: |
 | [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=green) | Gameplay | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=d81b60&logo=github) |
 | [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=blue) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Henry_rogue](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
