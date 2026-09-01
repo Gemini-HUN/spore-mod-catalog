@@ -15,11 +15,17 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 | [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=green) | Gameplay | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=d81b60&logo=github) |
 | [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Henry_rogue](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
-| [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Spiralplanet_crashedship?style=flat-square&color=green) | Gameplay | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Spiralplanet_crashedship?style=flat-square&color=d81b60&logo=github) |
+
+### My Spore 2008 Prototype Restoration Mods
+
+(placeholder)
+
+| Mod | Latest Release | Type | Area | Total Downloads |
+| :--- | :---: | :--- | :--- | :---: |
+| [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=d81b60&logo=github) |
 | [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_Gemini_beta_planets?style=flat-square&color=blue) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Gemini_beta_planets?style=flat-square&color=d81b60&logo=github) |
 | [2008_feb_starter_worlds](https://github.com/Gemini-HUN/2008_feb_starter_worlds) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_starter_worlds?style=flat-square&color=blue) | Gameplay & <br> Restoration | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_starter_worlds?style=flat-square&color=d81b60&logo=github) |
-| **Placeholder** | - | Gameplay | Tribe Stage | - |
 
 ### My Spore Fix Mods
 
