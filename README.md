@@ -41,7 +41,7 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 | [Spore_French_Locale_Fix](https://github.com/Gemini-HUN/Spore_French_Locale_Fix) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_French_Locale_Fix?style=flat-square&color=green) | Fix | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_French_Locale_Fix?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Archive Mods
-https://github.com/Gemini-HUN/Vertebra_Graphics_archive
+
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
