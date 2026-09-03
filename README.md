@@ -16,6 +16,7 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 | [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Henry_rogue](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Spiralplanet_crashedship?style=flat-square&color=green) | Gameplay | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Spiralplanet_crashedship?style=flat-square&color=d81b60&logo=github) |
+| [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=blue) | Gameplay | All | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore 2008 Prototype Restoration Mods
 
