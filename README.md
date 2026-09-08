@@ -8,7 +8,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 ### My Spore Gameplay Mods
 
-Here you can find mods that modify or expand Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
+Here you can find mods that modify or expand retail Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
 | :--- | :---: | :--- | :--- | :---: |
