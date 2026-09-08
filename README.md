@@ -20,7 +20,7 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 
 ### My Spore 2008 Prototype Restoration Mods
 
-(placeholder)
+Here you can find mods that modify or expand or replace Spore's gameplay mechanics with the 2008 february prototype version, including new gameplay features, balance changes, and unique gameplay experiences.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
 | :--- | :---: | :--- | :--- | :---: |
