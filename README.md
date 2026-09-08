@@ -26,11 +26,12 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 | :--- | :---: | :--- | :--- | :---: |
 | [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_proto_solar_planets?style=flat-square&color=d81b60&logo=github) |
 | [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_Gemini_beta_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Gemini_beta_planets?style=flat-square&color=d81b60&logo=github) |
-| [2008_feb_starter_worlds](https://github.com/Gemini-HUN/2008_feb_starter_worlds) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_starter_worlds?style=flat-square&color=blue) | Gameplay & <br> Restoration | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_starter_worlds?style=flat-square&color=d81b60&logo=github) |
+| [2008_feb_starter_worlds](https://github.com/Gemini-HUN/2008_feb_starter_worlds) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_starter_worlds?style=flat-square&color=red) | Gameplay & <br> Restoration | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_starter_worlds?style=flat-square&color=d81b60&logo=github) |
 | [2008_feb_creature_types](https://github.com/Gemini-HUN/2008_feb_creature_types) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_creature_types?style=flat-square&color=red) | Gameplay & <br> Restoration | All? | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_creature_types?style=flat-square&color=d81b60&logo=github) |
+| [2008_feb_special_planets](https://github.com/Gemini-HUN/2008_feb_special_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_special_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_special_planets?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Fix Mods
-
+https://github.com/Gemini-HUN/2008_feb_special_planets
 Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
