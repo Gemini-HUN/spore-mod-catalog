@@ -31,7 +31,7 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 | [2008_feb_special_planets](https://github.com/Gemini-HUN/2008_feb_special_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_special_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_special_planets?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Fix Mods
-https://github.com/Gemini-HUN/2008_feb_special_planets
+
 Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
