@@ -47,8 +47,8 @@ Here you can find technical tweaks and shared resources designed to improve comp
 
 | Mod | Latest Release | Type | Area | Total Downloads |
 | :--- | :---: | :--- | :--- | :---: |
-| [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=green) | Gameplay | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets/latest?style=flat-square&color=d81b60&logo=github) |
-| [Fruit_container_Gemini_mods](https://github.com/Gemini-HUN/Fruit_container_Gemini_mods) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Fruit_container_Gemini_mods?style=flat-square&color=green) | Gameplay | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Fruit_container_Gemini_mods/latest?style=flat-square&color=d81b60&logo=github) |
+| [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=green) | Disable | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets/latest?style=flat-square&color=d81b60&logo=github) |
+| [Fruit_container_Gemini_mods](https://github.com/Gemini-HUN/Fruit_container_Gemini_mods) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Fruit_container_Gemini_mods?style=flat-square&color=green) | Resource | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Fruit_container_Gemini_mods/latest?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Archive Mods
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
