@@ -15,7 +15,6 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 | [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets/latest?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Henry_rogue](https://github.com/Gemini-HUN/Spore_Henry_rogue) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=green) | Gameplay | Creature Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue/latest?style=flat-square&color=d81b60&logo=github) |
 | [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_Spiralplanet_crashedship?style=flat-square&color=green) | Gameplay | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Spiralplanet_crashedship/latest?style=flat-square&color=d81b60&logo=github) |
-| [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=green) | Gameplay | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets/latest?style=flat-square&color=d81b60&logo=github) |
 | [Gemini_rebalanced_planet_spawning](https://github.com/Gemini-HUN/Gemini_rebalanced_planet_spawning) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Gemini_rebalanced_planet_spawning?style=flat-square&color=green) | Gameplay | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_rebalanced_planet_spawning/latest?style=flat-square&color=d81b60&logo=github) |
 | [Gemini_DarkSpore_VanillaPlus_Planets](https://github.com/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets?style=flat-square&color=blue) | Gameplay | Space Stage <br> All Stage| ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets/latest?style=flat-square&color=d81b60&logo=github) |
 
@@ -45,6 +44,10 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 
 ### My Spore Support Mods
 Here you can find technical tweaks and shared resources designed to improve compatibility and support the functionality of other mods.
+
+| Mod | Latest Release | Type | Area | Total Downloads |
+| :--- | :---: | :--- | :--- | :---: |
+| [Exclude_Vanilla_starter_planets](https://github.com/Gemini-HUN/Exclude_Vanilla_starter_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=green) | Gameplay | All Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets/latest?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Archive Mods
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
