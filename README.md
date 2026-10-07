@@ -7,7 +7,6 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * ![](https://badgen.net/badge/release/Unstable/red?style=flat-square) Experimental project. Beta testers are needed to verify the mod's functionality. The mod may change significantly and receive bug-fix updates during development.
 
 ### My Spore Gameplay Mods
-
 Here you can find mods that modify or expand Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
@@ -21,7 +20,6 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 | [Gemini_DarkSpore_VanillaPlus_Planets](https://github.com/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets?style=flat-square&color=blue) | Gameplay | Space Stage <br> All Stage| ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_DarkSpore_VanillaPlus_Planets/latest?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore 2008 Prototype Restoration Mods
-
 Here you can find mods that modify or expand or replace Spore's gameplay mechanics with the 2008 february prototype version, including new gameplay features, balance changes, and unique gameplay experiences.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
@@ -34,7 +32,6 @@ Here you can find mods that modify or expand or replace Spore's gameplay mechani
 | [2008_feb_Art_planets](https://github.com/Gemini-HUN/2008_feb_Art_planets) | ![Version](https://badgen.net/github/tag/Gemini-HUN/2008_feb_Art_planets?style=flat-square&color=green) | Gameplay & <br> Restoration | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Art_planets/latest?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Fix Mods
-
 Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
@@ -46,8 +43,10 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 | [FixWarText](https://github.com/Gemini-HUN/FixWarText) | ![Version](https://badgen.net/github/tag/Gemini-HUN/FixWarText?style=flat-square&color=green) | Fix | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/FixWarText/latest?style=flat-square&color=d81b60&logo=github) |
 | [Spore_French_Locale_Fix](https://github.com/Gemini-HUN/Spore_French_Locale_Fix) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Spore_French_Locale_Fix?style=flat-square&color=green) | Fix | Space Stage | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_French_Locale_Fix/latest?style=flat-square&color=d81b60&logo=github) |
 
-### My Spore Archive Mods
+### My Spore Support Mods
+Here you can find technical tweaks and shared resources designed to improve compatibility and support the functionality of other mods.
 
+### My Spore Archive Mods
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
 
 | Mod | Latest Release | Type | Area | Total Downloads |
@@ -58,7 +57,6 @@ Here you can find archived Spore projects that are preserved, documented, and ma
 | [Vertebra_Graphics_archive](https://github.com/Gemini-HUN/Vertebra_Graphics_archive) | ![Version](https://badgen.net/github/tag/Gemini-HUN/Vertebra_Graphics_archive?style=flat-square&color=green) | Archive | Creature Editor | ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Vertebra_Graphics_archive/latest?style=flat-square&color=d81b60&logo=github) |
 
 ### My Spore Mod Contributions
-
 Here you can find projects by other creators that I have contributed to.
 
 | Original Creator | Mod | My role | Latest Release | Type | Area | Total Downloads |
